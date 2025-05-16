@@ -1,4 +1,4 @@
-import Button from "./components/button/Button";
+import Square from "./square/Square";
 import { GlobalStyles } from "./styles/GlobalStyles";
 
 const App = () => {
